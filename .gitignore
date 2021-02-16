@@ -2,3 +2,5 @@ src/client_secrets.json
 test.py
 chatbot-env
 .env
+data/*
+!data/.gitkeep
